@@ -2,7 +2,7 @@ This repo contains a very minimal example of how to issue a credential via your 
 
 Please replace `<YOUR OCM IP OR DOMAIN>` and `<YOUR CREDENTIAL DEFINITION ID>` with real values before testing.
 
-Kepp in mind that you will need to create a credential definition and schema to match.
+Keep in mind that you will need to create a credential definition and schema to match.
 
 Also, you will need to adjust the credential attributes to conform to you credential definition ID.
 
